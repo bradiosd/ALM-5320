@@ -22,7 +22,7 @@ install:
   - source .env
   - npm install
   - composer install
-  - bower install
+#  - bower install
 
 before_script:
   - php artisan db:seed
