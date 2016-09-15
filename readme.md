@@ -2,6 +2,8 @@
 
 ## The Laravel 5.3, Angular 2.0, Material Design Hybrid Framework
 
+[![Build Status](https://travis-ci.org/bradbird1990/ALM-5320.svg?branch=master)](https://travis-ci.org/bradbird1990/ALM-5320)
+
 <!--[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)-->
 <!--[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)-->
 <!--[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)-->
