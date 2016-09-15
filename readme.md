@@ -6,7 +6,6 @@
 [![Latest Stable Version](https://poser.pugx.org/bradbird1990/ALM-5320/version)](https://packagist.org/packages/bradbird1990/ALM-5320)
 [![Latest Unstable Version](https://poser.pugx.org/bradbird1990/ALM-5320/v/unstable)](//packagist.org/packages/bradbird1990/ALM-5320)
 [![Total Downloads](https://poser.pugx.org/bradbird1990/ALM-5320/downloads)](https://packagist.org/packages/bradbird1990/ALM-5320)
-<!--[![StyleCI](https://styleci.io/repos/68281763/shield?style=flat)](https://styleci.io/repos/68281763)-->
 [![License](https://poser.pugx.org/bradbird1990/ALM-5320/license)](https://packagist.org/packages/bradbird1990/ALM-5320)
 
 ### Acknowledgements
